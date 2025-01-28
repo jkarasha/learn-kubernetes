@@ -1,0 +1,1 @@
+Follow lessons from linkedin learning, Learn Kubernetes course.
